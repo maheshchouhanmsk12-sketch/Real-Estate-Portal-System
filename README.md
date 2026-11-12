@@ -95,3 +95,4 @@ Configure these in your Render Web Service dashboard under **Environment**:
 ├── initialize.php              # Environment Variables & Dynamic URL Resolution
 └── index.php                   # Frontend Public Portal
 ```
+

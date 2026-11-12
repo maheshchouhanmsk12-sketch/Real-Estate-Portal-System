@@ -32,3 +32,4 @@ RUN chown -R www-data:www-data /var/www/html \
 EXPOSE 80 10000
 
 CMD ["/usr/local/bin/start.sh"]
+
